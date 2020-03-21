@@ -192,3 +192,4 @@
 ## 2020-01-25 11:53:44 - feat(metric): implement metric module (16/20)
 ## 2020-02-02 20:13:26 - feat(infra): implement infra feature (9/20)
 ## 2020-03-14 21:15:57 - feat(api): implement api feature (3/20)
+## 2020-03-21 14:38:03 - feat(alert): implement alert feature (17/20)
