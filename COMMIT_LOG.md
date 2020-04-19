@@ -290,3 +290,4 @@
 ## 2020-03-21 14:38:03 - feat(alert): implement alert feature (17/20)
 ## 2020-03-22 18:23:51 - feat(test): create test handler (18/20)
 ## 2020-04-11 09:29:22 - feat(auth): implement auth module (8/20)
+## 2020-04-19 14:59:30 - feat(infra): add infra endpoint (9/20)
