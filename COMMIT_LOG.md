@@ -7,3 +7,4 @@
 ## 2020-04-11 09:29:22 - feat(auth): implement auth module (8/20)
 ## 2020-04-19 14:59:30 - feat(infra): add infra endpoint (9/20)
 ## 2020-05-30 10:29:53 - feat(security): create security handler (10/20)
+## 2020-06-01 20:55:32 - feat(metric): add metric support
