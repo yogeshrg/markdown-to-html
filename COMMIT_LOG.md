@@ -202,3 +202,4 @@
 ## 2020-09-12 22:14:37 - feat(security): add security endpoint (13/20)
 ## 2020-09-17 22:33:33 - feat(api): implement api feature
 ## 2020-10-03 21:15:49 - feat(ui): add ui support (17/20)
+## 2020-12-13 16:00:09 - feat(monitor): add monitor endpoint (20/20)
