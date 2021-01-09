@@ -203,3 +203,4 @@
 ## 2020-09-17 22:33:33 - feat(api): implement api feature
 ## 2020-10-03 21:15:49 - feat(ui): add ui support (17/20)
 ## 2020-12-13 16:00:09 - feat(monitor): add monitor endpoint (20/20)
+## 2021-01-09 21:35:42 - feat(metric): create metric handler (3/20)
