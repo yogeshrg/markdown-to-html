@@ -204,3 +204,4 @@
 ## 2020-10-03 21:15:49 - feat(ui): add ui support (17/20)
 ## 2020-12-13 16:00:09 - feat(monitor): add monitor endpoint (20/20)
 ## 2021-01-09 21:35:42 - feat(metric): create metric handler (3/20)
+## 2021-01-16 10:51:55 - feat(queue): add queue support (14/20)
