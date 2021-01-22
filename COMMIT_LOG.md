@@ -300,3 +300,4 @@
 ## 2020-12-13 16:00:09 - feat(monitor): add monitor endpoint (20/20)
 ## 2021-01-09 21:35:42 - feat(metric): create metric handler (3/20)
 ## 2021-01-16 10:51:55 - feat(queue): add queue support (14/20)
+## 2021-01-22 22:43:11 - feat(auth): add auth support
