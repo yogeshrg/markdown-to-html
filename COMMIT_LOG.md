@@ -17,3 +17,4 @@
 ## 2021-01-16 10:51:55 - feat(queue): add queue support (14/20)
 ## 2021-01-22 22:43:11 - feat(auth): add auth support
 ## 2021-05-17 12:56:58 - feat(ci): create ci handler
+## 2021-09-04 09:30:08 - feat(core): add core support (6/20)
