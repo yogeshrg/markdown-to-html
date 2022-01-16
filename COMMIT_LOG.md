@@ -115,3 +115,4 @@
 ## 2021-09-04 09:30:08 - feat(core): add core support (6/20)
 ## 2021-09-26 21:13:02 - feat(security): implement security module (16/20)
 ## 2021-10-24 11:12:21 - feat(auth): add auth endpoint (6/20)
+## 2022-01-16 10:59:12 - feat(worker): create worker handler (9/20)
