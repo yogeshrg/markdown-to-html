@@ -24,3 +24,4 @@
 ## 2022-02-12 22:54:39 - feat(deploy): implement deploy feature (4/20)
 ## 2022-02-20 23:36:22 - feat(ui): add ui support (16/20)
 ## 2022-04-02 14:14:26 - feat(db): implement db module (14/20)
+## 2022-04-03 16:10:28 - feat(worker): implement worker module (12/20)
