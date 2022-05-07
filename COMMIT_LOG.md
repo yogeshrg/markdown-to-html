@@ -26,3 +26,4 @@
 ## 2022-04-02 14:14:26 - feat(db): implement db module (14/20)
 ## 2022-04-03 16:10:28 - feat(worker): implement worker module (12/20)
 ## 2022-04-09 21:52:13 - feat(cache): implement cache module (13/20)
+## 2022-05-07 23:59:00 - feat(model): create model handler (18/20)
