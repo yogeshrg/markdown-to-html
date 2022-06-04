@@ -30,3 +30,4 @@
 ## 2022-05-28 11:25:51 - feat(auth): implement auth feature (8/20)
 ## 2022-05-28 21:31:38 - feat(infra): add infra support (3/20)
 ## 2022-06-04 19:00:16 - feat(metric): create metric handler (14/20)
+## 2022-06-04 19:05:04 - feat(test): create test handler (1/20)
