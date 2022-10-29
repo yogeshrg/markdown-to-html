@@ -128,3 +128,4 @@
 ## 2022-06-04 19:05:04 - feat(test): create test handler (1/20)
 ## 2022-07-10 19:50:16 - feat(config): add config support (2/20)
 ## 2022-07-30 10:29:16 - feat(alert): add alert support (14/20)
+## 2022-10-29 14:10:13 - feat(model): add model support (1/20)
