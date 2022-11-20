@@ -130,3 +130,4 @@
 ## 2022-07-30 10:29:16 - feat(alert): add alert support (14/20)
 ## 2022-10-29 14:10:13 - feat(model): add model support (1/20)
 ## 2022-11-20 15:27:11 - feat(auth): add auth endpoint (7/20)
+## 2022-11-20 20:09:26 - feat(security): create security handler (18/20)
