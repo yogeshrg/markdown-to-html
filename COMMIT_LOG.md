@@ -135,3 +135,4 @@
 ## 2023-05-06 13:52:22 - feat(security): add security endpoint (4/20)
 ## 2023-05-13 10:03:11 - feat(ci): add ci endpoint (11/20)
 ## 2023-06-17 18:33:36 - feat(data): add data endpoint (8/20)
+## 2023-06-19 13:41:11 - feat(docs): implement docs module
