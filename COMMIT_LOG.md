@@ -233,3 +233,4 @@
 ## 2023-06-19 13:41:11 - feat(docs): implement docs module
 ## 2023-06-24 09:45:44 - feat(model): implement model module (13/20)
 ## 2023-06-27 09:02:13 - feat(cache): implement cache module
+## 2023-10-11 16:21:24 - feat(db): create db handler
