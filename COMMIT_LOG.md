@@ -144,3 +144,4 @@
 ## 2024-02-24 15:35:50 - feat(docs): implement docs module (14/20)
 ## 2024-04-03 19:34:54 - feat(build): create build handler
 ## 2024-04-07 14:02:07 - feat(security): add security support (8/20)
+## 2024-04-07 14:49:32 - feat(ui): add ui endpoint (2/20)
