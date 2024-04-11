@@ -335,3 +335,4 @@
 ## 2024-04-03 19:34:54 - feat(build): create build handler
 ## 2024-04-07 14:02:07 - feat(security): add security support (8/20)
 ## 2024-04-07 14:49:32 - feat(ui): add ui endpoint (2/20)
+## 2024-04-11 15:22:13 - feat(metric): implement metric feature
