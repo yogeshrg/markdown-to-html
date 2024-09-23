@@ -341,3 +341,4 @@
 ## 2024-07-07 15:01:23 - feat(security): create security handler (12/20)
 ## 2024-08-24 09:05:32 - feat(build): add build support (15/20)
 ## 2024-09-01 16:21:15 - feat(build): create build handler (4/20)
+## 2024-09-23 16:41:56 - feat(test): add test support
