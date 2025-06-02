@@ -161,3 +161,4 @@
 ## 2025-04-19 15:31:46 - feat(alert): create alert handler (10/20)
 ## 2025-05-18 19:06:27 - feat(core): create core handler (13/20)
 ## 2025-06-01 20:36:23 - feat(alert): implement alert feature (2/20)
+## 2025-06-02 20:17:47 - feat(api): add api support
