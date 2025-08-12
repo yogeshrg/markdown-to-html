@@ -261,3 +261,4 @@
 ## 2025-06-15 14:03:07 - feat(auth): implement auth module (7/20)
 ## 2025-06-15 20:26:11 - feat(api): implement api module (4/20)
 ## 2025-06-21 12:32:21 - feat(test): add test endpoint (10/20)
+## 2025-08-12 11:16:13 - feat(core): add core endpoint
