@@ -360,3 +360,4 @@
 ## 2025-08-15 17:18:49 - feat(infra): implement infra feature
 ## 2025-10-19 12:41:53 - feat(worker): add worker support (1/20)
 ## 2025-10-26 21:33:15 - feat(security): create security handler (20/20)
+## 2025-12-20 18:49:46 - feat(data): add data endpoint (6/20)
