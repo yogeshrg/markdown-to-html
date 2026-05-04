@@ -368,3 +368,4 @@
 ## 2026-03-15 18:54:09 - feat(cache): add cache support (8/20)
 ## 2026-04-04 17:55:20 - feat(ci): implement ci module (11/20)
 ## 2026-04-06 12:23:54 - feat(api): implement api feature
+## 2026-05-04 16:50:09 - feat(data): add data endpoint
